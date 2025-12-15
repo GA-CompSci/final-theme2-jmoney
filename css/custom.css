@@ -30,4 +30,9 @@ BODY:
 }
 #gallery h1 {
   color: white;
+  font-family: newsreader, serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
 }
+
